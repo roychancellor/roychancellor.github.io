@@ -1,6 +1,5 @@
 body {
 	font: 12px Times, Sans-Serif;
-	background: url(noise.png);
 }
 
 #button {
@@ -12,12 +11,11 @@ body {
 	height: 100px;
 }
 
-#container {
+#header {
 	width: 800px;
 	margin: 40px auto 60px;
 }
-
-#content-contact {
+#name {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	font-size: 42px;
@@ -26,7 +24,22 @@ body {
 	border-bottom: 1px solid #999;
 }
 
-#content-summarycontent {
+#problem-solver-preventer {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+#professional-experience {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+#education {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+#summary {
 	margin: 0 0 16px 0;
 	padding: 0 0 32px 0;
 
@@ -34,7 +47,11 @@ body {
 	font-size: 20px;
 }
 
-#content-professionalheader {
+#company-school-name {
+	font-size: 28px;
+}
+
+#job-title-degree {
 	font-size: 28px;
 }
 
