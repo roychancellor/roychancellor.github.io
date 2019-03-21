@@ -119,8 +119,14 @@ body {
   max-width:  6%;
   max-height: 6%;
 }
-#graph {
+#graph1 {
   float: right;
+  overflow: auto;
+  max-width:  50%;
+  max-height: 50%;
+}
+#graph2 {
+  float: left;
   overflow: auto;
   max-width:  50%;
   max-height: 50%;
