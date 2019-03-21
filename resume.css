@@ -128,10 +128,10 @@ body {
 #icon-univ {
   float: left;
   overflow: auto;
-  max-width:  20%;
-  max-height: 20%;
+  max-width:  15%;
+  max-height: 15%;
   margin-left: 0px;
-  margin-right: 6px;
+  margin-right: 4px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
