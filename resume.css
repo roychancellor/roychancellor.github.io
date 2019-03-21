@@ -10,28 +10,34 @@ body {
 .column {
   float: left;
   padding: 10px;
-  height: 120px;
 }
 .resume-name {
   width: 20%;
+  height: 120px;
 }
 .resume-contact-left {
   width: 20%;
+  height: 120px;
 }
 .resume-contact-right {
   width: 20%;
+  height: 120px;
 }
 .summary {
   width: 20%;
+  height: 600px;
 }
 .problem-solver-preventer {
   width: 50%;
+  height: 600px;
 }
 .professional-experience {
   width: 50%;
+  height: 1000px;
 }
 .education {
   width: 25%;
+  height: 300px;
 }
 /* clears the floats after the columns */
 .row:after {
