@@ -37,8 +37,7 @@ body {
   /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   overflow: auto;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin: 0px 0px 0px 0px;
 }
 .resume-contact-right {
   width: 20%;
@@ -47,7 +46,7 @@ body {
   border-top: 2px solid black;
   border-right: 2px solid black;
   overflow: auto;
-  margin-left: 0px;
+  margin: 0px 0px 0px 0px;
 }
 .summary {
   width: 15%;
@@ -55,6 +54,7 @@ body {
   /*padding: 25px;*/
   border: 2px solid black;
   overflow: auto;
+  margin: 0px 0px 0px 0px;
 }
 .problem-solver-preventer {
   width: 45%;
@@ -62,22 +62,21 @@ body {
   padding: 25px;
   border: 2px solid black;
   overflow: auto;
+  margin: 0px 0px 0px 0px;
 }
 .professional-experience-narrow {
   width: 35%;
   height: 300px;
   /*border-top: 2px solid black;*/
   border-left: 2px solid black;
-  margin-bottom: 0px;
-  margin-right: 0px;
+  margin: 0px 0px 0px 0px;
 }
 .education {
   width: 25%;
   height: 300px;
   border: 2px solid black;
   overflow: auto;
-  margin-left: 0px;
-  margin-bottom: 0px;
+  margin: 0px 0px 0px 0px;
 }
 .professional-experience-full {
   width: 60%;
@@ -85,7 +84,7 @@ body {
   border-left: 2px solid black;
   border-right: 2px solid black;
   border-bottom: 2px solid black;
-  margin-top: 0px;
+  margin: 0px 0px 0px 0px;
 }
 /* clears the floats after the columns */
 .row:after {
