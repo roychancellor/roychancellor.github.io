@@ -2,15 +2,19 @@ body {
 	font: 16px Helvetica, Sans-Serif;
 }
 
-#name-header {
+#my-name {
 	width: 400px;
-	margin-top: 40px;
-	margin-left: 0px;
+	margin-top: 60px;
+	margin-left: 60px;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 10px solid #999;
 }
 
 #contact-info {
 	width: 800px;
-	margin-top: 40px;
+	margin-top: 60px;
 	margin-left: 400px;
 	font-size: 12px;
 }
@@ -19,14 +23,6 @@ body {
 	font-size:  20px;
 	font-style: bold;
 	border-bottom: 1px solid #999;
-}
-
-#my-name {
-	margin-left: 0px;
-	font-size: 40px;
-	font-weight: bold;
-	letter-spacing: -2px;
-	border-bottom: 2px solid #999;
 }
 
 #summary {
