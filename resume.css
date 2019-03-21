@@ -16,14 +16,17 @@ body {
 .resume-name {
   width: 25%;
   height: 80px;
+  border-bottom: 2px black;
 }
 .resume-contact-left {
   width: 15%;
   height: 80px;
+  border-bottom: 2px black;
 }
 .resume-contact-right {
   width: 20%;
   height: 80px;
+  border-bottom: 2px black;
 }
 .summary {
   width: 15%;
