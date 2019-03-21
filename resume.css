@@ -48,7 +48,7 @@ body {
   margin: 0px 0px 0px 0px;
 }
 .summary {
-  width: 15%;
+  width: 25%;
   height: 450px;
   /*padding: 25px;*/
   border: 2px solid black;
@@ -57,7 +57,7 @@ body {
   background-color: #bbb
 }
 .project-showcase {
-  width: 45%;
+  width: 35%;
   height: 450px;
   padding-left: 6px;
   padding-top: 6px;
