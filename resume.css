@@ -98,6 +98,8 @@ body {
 #icon {
   float: left;
   overflow: auto;
+  max-width:  50%;
+  max-height: 50%;
 }
 
 #my-name {
