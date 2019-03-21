@@ -16,22 +16,27 @@ body {
 .resume-name {
   width: 25%;
   height: 80px;
-  border-bottom: 2px black;
+  border-bottom: 2px solid black;
+  overflow: auto;
 }
 .resume-contact-left {
   width: 15%;
   height: 80px;
-  border-bottom: 2px black;
+  border-bottom: 2px solid black;
+  overflow: auto;
 }
 .resume-contact-right {
   width: 20%;
   height: 80px;
-  border-bottom: 2px black;
+  border-bottom: 2px solid black;
+  overflow: auto;
 }
 .summary {
   width: 15%;
   height: 600px;
   padding: 25px;
+  border: 2px solid black;
+  overflow: auto;
 }
 .problem-solver-preventer {
   width: 45%;
