@@ -29,6 +29,7 @@ body {
   margin-right: 0px;
   padding-top: 15px;
   padding-left: 6px;
+  letter-spacing: -2px;
 }
 .resume-contact-left {
   width: 15%;
@@ -127,15 +128,15 @@ body {
 #graph1 {
   float: right;
   overflow: auto;
-  max-width:  20%;
-  max-height: 20%;
+  max-width:  30%;
+  max-height: 30%;
   margin: 0px 10px;
 }
 #graph2 {
   float: left;
   overflow: auto;
-  max-width:  20%;
-  max-height: 20%;
+  max-width:  30%;
+  max-height: 30%;
   margin: 0px 10px;
 }
 
