@@ -13,16 +13,17 @@ body {
   vertical-align: text-top;
 }
 .resume-name {
-  width: 120px;
+  width: 10%;
   height: 80px;
 }
 .resume-contact-left {
-  width: 100px;
+  width: 15%;
   height: 80px;
 }
 .resume-contact-right {
-  width: 100px%;
+  width: 15%;
   height: 80px;
+  float: right;
 }
 .summary {
   width: 15%;
