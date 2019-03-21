@@ -49,27 +49,27 @@ body {
 }
 
 /*display properties for resume sections*/
-.my-name {
+#my-name {
   font-size: 40px;
   font-style: bold;
 }
 
-.my-contact {
+#my-contact {
   font-size: 12px;
   font-style: bold;
 }
 
-.section-header {
+#section-header {
 	font-size: 20px;
 	font-style: bold;
 	border-bottom: 1px solid #999;
 }
 
-.company-school-name {
+#company-school-name {
 	font-size: 20px;
 }
 
-.job-title-degree {
+#job-title-degree {
 	font-size: 20px;
 }
 
