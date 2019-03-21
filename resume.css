@@ -2,35 +2,42 @@ body {
 	font: 16px Helvetica, Sans-Serif;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 #my-name {
+  width: 25%;
+  float: left;
+}
+
+#my-contact {
+  width: 75%;
+  float: left;
+}
+
+#summary {
 	width: 400px;
 	margin-top: 60px;
 	margin-left: 60px;
 	font-size: 40px;
 	font-weight: bold;
 	letter-spacing: -2px;
-	border-bottom: 10px solid #999;
-}
-
-#contact-info {
-	width: 800px;
-	margin-top: 60px;
-	margin-left: 400px;
-	font-size: 12px;
+	border-bottom: 6px solid #999;
 }
 
 #section-header {
 	font-size:  20px;
 	font-style: bold;
 	border-bottom: 1px solid #999;
-}
-
-#summary {
-	width: 400px;
-	margin-left: 60px;
-	margin-top: 100px;
-	font-style: bold;
-	font-size: 16px;
 }
 
 #problem-solver-preventer {
