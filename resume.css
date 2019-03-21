@@ -61,24 +61,24 @@ body {
 
 #my-contact {
   font-size: 12px;
-  font-style: bold;
+  font: bold;
 }
 
 #section-header {
   font-size: 20px;
-  font-style: bold;
+  font: bold;
   border-bottom: 2px solid #000000;
   border-spacing:  0px;
 }
 
 #company-school-name {
 	font-size: 20px;
-	font-style:  bold;
+	font:  bold;
 }
 
 #job-title-degree {
 	font-size: 20px;
-	font-style: bold
+	font: bold
 }
 
 .date {
@@ -87,7 +87,7 @@ body {
 
 h3 {
 	font-size: 20px;
-	font-style: bold;
+	font: bold;
 	border-bottom: 2px solid #000000;
 	border-spacing: 0px;
 }
