@@ -3,9 +3,16 @@ body {
 }
 
 #name-contact-header {
-	width: 1200px;
+	width: 400px;
 	margin-top: 40px;
 	margin-left: 0px;
+}
+
+#contact-info {
+	width: 800px;
+	margin-top: 40px;
+	margin-left: 400px;
+	font-size: 12px;
 }
 
 #section-header {
