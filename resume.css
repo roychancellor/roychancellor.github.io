@@ -10,8 +10,7 @@ body {
 /* Create column types for the resume section layouts that will float next to each other */
 .column {
   float: left;
-  padding-left: 10px;
-  padding-top: 10px;
+  padding: 0px 0px 0px 0px;
   vertical-align: text-top;
   margin-top: 6px;
   margin-left: 6px;
