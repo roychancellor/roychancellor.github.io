@@ -64,7 +64,7 @@ body {
 #section-header {
   font-size: 20px;
   font-style: bold;
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #000000;
 }
 
 #company-school-name {
@@ -81,7 +81,7 @@ body {
 
 h3 {
 	font-size: 20px;
-	border-bottom: 2px solid #999;
+	border-bottom: 2px solid #000000;
 }
 
 h4{
