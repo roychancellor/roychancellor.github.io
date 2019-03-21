@@ -95,6 +95,11 @@ body {
 }
 
 /*display properties for resume sections*/
+#icon {
+  float: left;
+  overflow: auto;
+}
+
 #my-name {
   font-size: 40px;
   font-weight: bold;
