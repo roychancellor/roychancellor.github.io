@@ -34,8 +34,12 @@ body {
   height: 600px;
   padding: 25px;
 }
-.professional-experience {
-  width: 50%;
+.professional-experience-narrow {
+  width: 35%;
+  height: 1000px;
+}
+.professional-experience-full {
+  width: 60%;
   height: 1000px;
 }
 .education {
