@@ -95,11 +95,29 @@ body {
 }
 
 /*display properties for resume sections*/
-#icon {
+#icon-email {
   float: left;
   overflow: auto;
-  max-width:  10%;
-  max-height: 10%;
+  max-width:  4%;
+  max-height: 4%;
+}
+#icon-phone {
+  float: left;
+  overflow: auto;
+  max-width:  4%;
+  max-height: 4%;
+}
+#icon-home {
+  float: left;
+  overflow: auto;
+  max-width:  4%;
+  max-height: 4%;
+}
+#icon-linkedin {
+  float: left;
+  overflow: auto;
+  max-width:  4%;
+  max-height: 4%;
 }
 
 #my-name {
