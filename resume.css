@@ -57,6 +57,7 @@ body {
   border: 2px solid black;
   overflow: auto;
   margin: 0px 0px 0px 0px;
+  background-color: #bbb
 }
 .project-showcase {
   width: 45%;
@@ -80,6 +81,7 @@ body {
   border: 2px solid black;
   overflow: auto;
   margin: 0px 0px 0px 0px;
+  background-color: #bbb
 }
 .professional-experience-full {
   width: 60%;
