@@ -68,14 +68,14 @@ body {
 }
 .professional-experience-narrow {
   width: 50%;
-  height: 250px;
+  height: 225px;
   /*border-top: 2px solid black;*/
   border-left: 2px solid black;
   margin: 0px 0px 0px 0px;
 }
 .education {
   width: 30%;
-  height: 250px;
+  height: 225px;
   border: 2px solid black;
   overflow: auto;
   margin: 0px 0px 0px 0px;
