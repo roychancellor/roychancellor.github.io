@@ -23,7 +23,7 @@ body {
 .resume-name {
   width: 25%;
   height: 90px;
-  border-bottom: 2px solid black;
+  /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   border-left: 2px solid black;
   overflow: auto;
@@ -34,7 +34,7 @@ body {
 .resume-contact-left {
   width: 15%;
   height: 90px;
-  border-bottom: 2px solid black;
+  /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   overflow: auto;
   margin-left: 0px;
@@ -43,7 +43,7 @@ body {
 .resume-contact-right {
   width: 21%;
   height: 90px;
-  border-bottom: 2px solid black;
+  /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   border-right: 2px solid black;
   overflow: auto;
@@ -66,7 +66,7 @@ body {
 .professional-experience-narrow {
   width: 35%;
   height: 300px;
-  border-top: 2px solid black;
+  /*border-top: 2px solid black;*/
   border-left: 2px solid black;
   margin-bottom: 0px;
   margin-right: 0px;
@@ -113,7 +113,7 @@ body {
   max-width:  4%;
   max-height: 4%;
 }
-#icon-linkedin {
+#icon-web {
   float: left;
   overflow: auto;
   max-width:  4%;
@@ -148,7 +148,7 @@ body {
 
 #job-title-degree {
   font-size: 20px;
-  font-weight: bold
+  font-weight: bold;
   margin: 0px 0px 0px 0px;
 }
 
