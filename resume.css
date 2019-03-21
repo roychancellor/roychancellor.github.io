@@ -13,7 +13,7 @@ body {
   vertical-align: text-top;
 }
 .resume-name {
-  width: 15%;
+  width: 25%;
   height: 80px;
 }
 .resume-contact-left {
@@ -21,7 +21,7 @@ body {
   height: 80px;
 }
 .resume-contact-right {
-  width: 15%;
+  width: 20%;
   height: 80px;
 }
 .summary {
@@ -30,7 +30,7 @@ body {
   padding: 25px;
 }
 .problem-solver-preventer {
-  width: 50%;
+  width: 45%;
   height: 600px;
   padding: 25px;
 }
