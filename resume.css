@@ -11,7 +11,7 @@ body {
 .column {
   float: left;
   padding-left: 6px;
-  padding-top: 0px;
+  padding-top: 6px;
   padding-bottom: 0px;
   padding-right: 6px;
   vertical-align: text-top;
