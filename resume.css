@@ -22,7 +22,7 @@ body {
 }
 .resume-name {
   width: 25%;
-  height: 90px;
+  height: 60px;
   /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   border-left: 2px solid black;
@@ -33,19 +33,21 @@ body {
 }
 .resume-contact-left {
   width: 15%;
-  height: 90px;
+  height: 60px;
   /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   overflow: auto;
+  padding-top: 10px;
   margin: 0px 0px 0px 0px;
 }
 .resume-contact-right {
   width: 20%;
-  height: 90px;
+  height: 60px;
   /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   border-right: 2px solid black;
   overflow: auto;
+  padding-top: 10px;
   margin: 0px 0px 0px 0px;
 }
 .summary {
