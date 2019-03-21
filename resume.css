@@ -12,10 +12,13 @@ body {
   padding: 10px;
 }
 .resume-name {
-  width: 25%;
+  width: 20%;
 }
-.resume-contact {
-  width: 75%;
+.resume-contact-left {
+  width: 40%;
+}
+.resume-contact-right {
+  width: 40%;
 }
 .summary {
   width: 25%;
