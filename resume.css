@@ -21,38 +21,38 @@ body {
   margin-bottom: 0px;
 }
 .resume-name {
-  width: 25%;
-  height: 60px;
+  width: 15%;
+  height: 70px;
   /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   border-left: 2px solid black;
   overflow: auto;
   margin-right: 0px;
-  padding-top: 10px;
+  padding-top: 15px;
   padding-left: 6px;
 }
 .resume-contact-left {
-  width: 15%;
-  height: 60px;
+  width: 20%;
+  height: 70px;
   /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   overflow: auto;
-  padding-top: 10px;
+  padding-top: 15px;
   margin: 0px 0px 0px 6px;
 }
 .resume-contact-right {
-  width: 20%;
-  height: 60px;
+  width: 25%;
+  height: 70px;
   /*border-bottom: 1px solid black;*/
   border-top: 2px solid black;
   border-right: 2px solid black;
   overflow: auto;
-  padding-top: 10px;
+  padding-top: 15px;
   margin: 0px 0px 0px 6px;
 }
 .summary {
   width: 15%;
-  height: 600px;
+  height: 400px;
   /*padding: 25px;*/
   border: 2px solid black;
   overflow: auto;
@@ -60,7 +60,7 @@ body {
 }
 .project-showcase {
   width: 45%;
-  height: 600px;
+  height: 400px;
   padding-left: 6px;
   padding-top: 6px;
   border: 2px solid black;
@@ -69,21 +69,21 @@ body {
 }
 .professional-experience-narrow {
   width: 35%;
-  height: 300px;
+  height: 200px;
   /*border-top: 2px solid black;*/
   border-left: 2px solid black;
   margin: 0px 0px 0px 0px;
 }
 .education {
   width: 25%;
-  height: 300px;
+  height: 200px;
   border: 2px solid black;
   overflow: auto;
   margin: 0px 0px 0px 0px;
 }
 .professional-experience-full {
   width: 60%;
-  height: 1000px;
+  height: 600px;
   border-left: 2px solid black;
   border-right: 2px solid black;
   border-bottom: 2px solid black;
