@@ -21,7 +21,7 @@ body {
   margin-bottom: 0px;
 }
 .resume-name {
-  width: 20%;
+  width: 25%;
   height: 70px;
   border-top: 2px solid black;
   border-left: 2px solid black;
@@ -32,7 +32,7 @@ body {
   letter-spacing: -2px;
 }
 .resume-contact-left {
-  width: 25%;
+  width: 30%;
   height: 70px;
   border-top: 2px solid black;
   overflow: auto;
@@ -58,7 +58,7 @@ body {
   background-color: #bbb
 }
 .project-showcase {
-  width: 45%;
+  width: 55%;
   height: 350px;
   padding-left: 6px;
   padding-top: 6px;
@@ -67,22 +67,22 @@ body {
   margin: 0px 0px 0px 0px;
 }
 .professional-experience-narrow {
-  width: 45%;
-  height: 200px;
+  width: 50%;
+  height: 300px;
   /*border-top: 2px solid black;*/
   border-left: 2px solid black;
   margin: 0px 0px 0px 0px;
 }
 .education {
-  width: 30%;
-  height: 200px;
+  width: 35%;
+  height: 300px;
   border: 2px solid black;
   overflow: auto;
   margin: 0px 0px 0px 0px;
   background-color: #bbb
 }
 .professional-experience-full {
-  width: 75%;
+  width: 85%;
   height: 700px;
   border-left: 2px solid black;
   border-right: 2px solid black;
