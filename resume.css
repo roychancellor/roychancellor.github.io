@@ -104,8 +104,8 @@ body {
 #icon-phone {
   float: left;
   overflow: auto;
-  max-width:  4%;
-  max-height: 4%;
+  max-width:  8%;
+  max-height: 8%;
 }
 #icon-home {
   float: left;
@@ -116,8 +116,8 @@ body {
 #icon-web {
   float: left;
   overflow: auto;
-  max-width:  4%;
-  max-height: 4%;
+  max-width:  8%;
+  max-height: 8%;
 }
 
 #my-name {
