@@ -6,73 +6,59 @@ body {
   box-sizing: border-box;
 }
 
-/* Create three unequal columns that floats next to each other */
+/* Create column types for the resume section layouts that will float next to each other */
 .column {
   float: left;
   padding: 10px;
-  height: 600px;
 }
-.left, .right {
+.resume-name {
   width: 25%;
 }
-.middle {
-  width: 50%;
+.resume-contact {
+  width: 75%;
 }
-/* Clear floats after the columns */
+.summary {
+  width: 25%;
+}
+.problem-solver-preventer {
+  width: 75%;
+}
+.professional-experience {
+  width: 75%;
+}
+.education {
+  width: 25%;
+}
+/* clears the floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/*display properties for resume name*/
-#my-name {
+/*display properties for resume sections*/
+.my-name {
   font-size: 40px;
   font-style: bold;
 }
 
-#my-contact {
+.my-contact {
   font-size: 12px;
-  fint-style: bold;
+  font-style: bold;
 }
 
-#summary {
-	width: 400px;
-	margin-top: 60px;
-	margin-left: 60px;
-	font-size: 40px;
-	font-weight: bold;
-	letter-spacing: -2px;
-	border-bottom: 6px solid #999;
-}
-
-#section-header {
-	font-size:  20px;
+.section-header {
+	font-size: 20px;
 	font-style: bold;
 	border-bottom: 1px solid #999;
 }
 
-#problem-solver-preventer {
-	width: 800px;
-	margin: 40px auto 60px;
+.company-school-name {
+	font-size: 20px;
 }
 
-#professional-experience {
-	width: 800px;
-	margin: 40px auto 60px;
-}
-
-#education {
-	width: 800px;
-	margin: 40px auto 60px;
-}
-
-#company-school-name {
-	font-size: 28px;
-}
-
-#job-title-degree {
-	font-size: 28px;
+.job-title-degree {
+	font-size: 20px;
 }
 
 .date {
