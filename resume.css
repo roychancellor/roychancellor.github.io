@@ -28,6 +28,7 @@ body {
   border-left: 2px solid black;
   overflow: auto;
   margin-right: 0px;
+  margin-top: 10px;
   padding-left: 6px;
 }
 .resume-contact-left {
