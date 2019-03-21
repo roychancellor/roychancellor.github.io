@@ -10,17 +10,14 @@ body {
 .column {
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 600px;
 }
-
 .left, .right {
   width: 25%;
 }
-
 .middle {
   width: 50%;
 }
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -28,14 +25,15 @@ body {
   clear: both;
 }
 
+/*display properties for resume name*/
 #my-name {
-  width: 25%;
-  float: left;
+  font-size: 40px;
+  font-style: bold;
 }
 
 #my-contact {
-  width: 75%;
-  float: left;
+  font-size: 12px;
+  fint-style: bold;
 }
 
 #summary {
