@@ -26,10 +26,12 @@ body {
 .summary {
   width: 20%;
   height: 600px;
+  padding: 25px;
 }
 .problem-solver-preventer {
   width: 50%;
   height: 600px;
+  padding: 25px;
 }
 .professional-experience {
   width: 50%;
