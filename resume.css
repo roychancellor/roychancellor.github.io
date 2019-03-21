@@ -34,6 +34,8 @@ body {
   width: 45%;
   height: 600px;
   padding: 25px;
+  border: 2px solid black;
+  overflow: auto;
 }
 .professional-experience-narrow {
   width: 35%;
@@ -44,7 +46,6 @@ body {
   height: 300px;
   border: 2px solid black;
   overflow: auto;
-
 }
 .professional-experience-full {
   width: 60%;
