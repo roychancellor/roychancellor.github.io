@@ -10,6 +10,7 @@ body {
 .column {
   float: left;
   padding: 10px;
+  vertical-align: top;
 }
 .resume-name {
   width: 20%;
