@@ -102,36 +102,42 @@ body {
   overflow: auto;
   max-width:  4%;
   max-height: 4%;
+  margin: 0px 10px;
 }
 #icon-phone {
   float: left;
   overflow: auto;
   max-width:  6%;
   max-height: 6%;
+  margin: 0px 10px;
 }
 #icon-home {
   float: left;
   overflow: auto;
   max-width:  4%;
   max-height: 4%;
+  margin: 0px 10px;
 }
 #icon-web {
   float: left;
   overflow: auto;
   max-width:  6%;
   max-height: 6%;
+  margin: 0px 10px;
 }
 #graph1 {
   float: right;
   overflow: auto;
   max-width:  20%;
   max-height: 20%;
+  margin: 0px 10px;
 }
 #graph2 {
   float: left;
   overflow: auto;
   max-width:  20%;
   max-height: 20%;
+  margin: 0px 10px;
 }
 
 #my-name {
