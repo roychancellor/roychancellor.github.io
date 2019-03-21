@@ -141,6 +141,7 @@ body {
   max-width:  30%;
   max-height: 30%;
   margin: 0px 10px;
+  vertical-align: text-top;
 }
 #graph2 {
   float: right;
@@ -148,6 +149,7 @@ body {
   max-width:  30%;
   max-height: 30%;
   margin: 0px 10px;
+  vertical-align: text-top;
 }
 
 #my-name {
