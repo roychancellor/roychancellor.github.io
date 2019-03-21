@@ -38,7 +38,7 @@ body {
   border-top: 2px solid black;
   overflow: auto;
   padding-top: 10px;
-  margin: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 6px;
 }
 .resume-contact-right {
   width: 20%;
@@ -48,7 +48,7 @@ body {
   border-right: 2px solid black;
   overflow: auto;
   padding-top: 10px;
-  margin: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 6px;
 }
 .summary {
   width: 15%;
