@@ -122,8 +122,8 @@ body {
 #graph {
   float: right;
   overflow: auto;
-  max-width:  10%;
-  max-height: 10%;
+  max-width:  50%;
+  max-height: 50%;
 }
 
 #my-name {
