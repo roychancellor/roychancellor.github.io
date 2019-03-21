@@ -105,11 +105,13 @@ body {
 #my-name {
   font-size: 40px;
   font-weight: bold;
+  margin: 0px 0px 0px 0px;
 }
 
 #my-contact {
   font-size: 16px;
   font-weight: bold;
+  margin: 0px 0px 0px 0px;
 }
 
 #section-header {
@@ -121,45 +123,43 @@ body {
 }
 
 #company-school-name {
-	font-size: 20px;
-	font-weight:  bold;
-	margin: 0px 0px 0px 0px;
+  font-size: 20px;
+  font-weight:  bold;
+  margin: 0px 0px 0px 0px;
 }
 
 #job-title-degree {
-	font-size: 20px;
-	font-weight: bold
-}
-
-.date {
-	float: right;
+  font-size: 20px;
+  font-weight: bold
+  margin: 0px 0px 0px 0px;
 }
 
 h1 {
-	font-weight: bold;
-	/*border-bottom: 2px solid black;
-	border-spacing: 0px;*/
-	padding: 0px 0px 0px 0px;
-	margin: 0px 0px 0px 0px;
+  font-weight: bold;
+  /*border-bottom: 2px solid black;
+  border-spacing: 0px;*/
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 h3 {
-	font-size: 24px;
-	font-weight: bold;
-	border-bottom: 2px solid black;
-	border-spacing: 0px;
-	padding: 0px 0px 0px 0px;
-	margin: 0px 0px 0px 0px;
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  border-spacing: 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 h4{
-	margin-top: 0px;
-	margin-bottom: 0px;
-	font-size: 20px;
-	padding: 0px 0px 0px 0px;
-	margin: 0px 0px 0px 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 p {
   color: black;
+  margin: 0px 0px 0px 0px;
 }
