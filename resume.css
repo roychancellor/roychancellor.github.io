@@ -59,8 +59,8 @@ body {
 .project-showcase {
   width: 45%;
   height: 600px;
-  padding-left: 6px;
-  padding-top: 6px;
+  padding: 0px;
+  /*padding-top: 6px;*/
   border: 2px solid black;
   overflow: auto;
   margin: 0px 0px 0px 0px;
