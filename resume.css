@@ -100,7 +100,7 @@ body {
 }
 
 #my-contact {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
 }
 
@@ -109,11 +109,13 @@ body {
   font-weight: bold;
   border-bottom: 2px solid black;
   border-spacing:  0px;
+  margin: 0px 0px 0px 0px;
 }
 
 #company-school-name {
 	font-size: 20px;
 	font-weight:  bold;
+	margin: 0px 0px 0px 0px;
 }
 
 #job-title-degree {
@@ -130,6 +132,7 @@ h1 {
 	/*border-bottom: 2px solid black;
 	border-spacing: 0px;*/
 	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 }
 
 h3 {
@@ -138,6 +141,7 @@ h3 {
 	border-bottom: 2px solid black;
 	border-spacing: 0px;
 	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 }
 
 h4{
