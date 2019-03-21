@@ -11,8 +11,6 @@ body {
   float: left;
   padding: 10px;
   vertical-align: text-top;
-  border: 2px solid black;
-  overflow: hidden;
 }
 .resume-name {
   width: 25%;
@@ -43,6 +41,9 @@ body {
 .education {
   width: 25%;
   height: 300px;
+  border: 2px solid black;
+  overflow: hidden;
+
 }
 .professional-experience-full {
   width: 60%;
