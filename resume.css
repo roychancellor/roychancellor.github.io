@@ -14,15 +14,15 @@ body {
 }
 .resume-name {
   width: 20%;
-  height: 90px;
+  height: 80px;
 }
 .resume-contact-left {
   width: 20%;
-  height: 90px;
+  height: 80px;
 }
 .resume-contact-right {
   width: 20%;
-  height: 90px;
+  height: 80px;
 }
 .summary {
   width: 20%;
@@ -61,9 +61,9 @@ body {
 }
 
 #section-header {
-	font-size: 20px;
-	font-style: bold;
-	border-bottom: 1px solid #999;
+  font-size: 20px;
+  font-style: bold;
+  border-bottom: 1px solid #999;
 }
 
 #company-school-name {
