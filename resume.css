@@ -154,6 +154,7 @@ body {
 
 #my-name {
   font-size: 54px;
+  font-size: calc(32px + (66 - 32) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
   margin: 0px 0px 0px 0px;
 }
