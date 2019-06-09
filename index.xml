@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roy Chancellor</title>
+    <link>https://roychancellor.me/</link>
+    <description>Recent content on Roy Chancellor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://roychancellor.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enginering Projects</title>
+      <link>https://roychancellor.me/engineering_projects/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roychancellor.me/engineering_projects/</guid>
+      <description>All of my personal projects can be found on GitHub, here are a few key repositories that I am proud of:
+ReactiveProblemSolving Reactive problem solving&amp;hellip;.
+ProactiveProblemSolving Proactive problem solving&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Programming Projects</title>
+      <link>https://roychancellor.me/programming_projects/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roychancellor.me/programming_projects/</guid>
+      <description>All of my personal projects can be found on GitHub. Below are some projects I am particularly proud of:
+ProjectEuler Project Euler is a collection of challenging math problems solved with programming. I have used these problems for intellectual stimulation and to practice coding in Java. Archives of the problems are here.
+ Find the first triangular number that has at least 500 divisors Problem #12 &amp;lt;Find the first 10 digits of the sum of 100 fifty-digit numbers Problem #13 Find the number of paths through a 20 x 20 grid Problem #15 Find the sum of the digits in 2^1000 Problem #16 Total number of letters used to write out 1-1000 in words Problem #17 Find the sum of the digits in 100!</description>
+    </item>
+    
+  </channel>
+</rss>
