@@ -6,7 +6,7 @@
     <description>Recent content on Roy Chancellor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roychancellor.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,17 @@
     <item>
       <title>Enginering Projects</title>
       <link>https://roychancellor.me/engineering_projects/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://roychancellor.me/engineering_projects/</guid>
-      <description>All of my personal projects can be found on GitHub, here are a few key repositories that I am proud of:
-ReactiveProblemSolving Reactive problem solving&amp;hellip;.
-ProactiveProblemSolving Proactive problem solving&amp;hellip;.</description>
+      <description>Projects on this page illustrate reactive and proactive problem solving projects I worked on either directly as a team leader or as an advisor to the primary project team. The project show how Shainin Red X and Green Y methods can quickly converge on the root cause of a technical problem.
+Reactive Problem Solving Reactive problem solving occurs when a problem already exists and needs attention, whether it be for a line-down situation or to eliminate chronic problems.</description>
     </item>
     
     <item>
       <title>Programming Projects</title>
       <link>https://roychancellor.me/programming_projects/</link>
-      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://roychancellor.me/programming_projects/</guid>
       <description>All of my personal projects can be found on GitHub. Below are some projects I am particularly proud of:
