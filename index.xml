@@ -6,10 +6,21 @@
     <description>Recent content on Roy Chancellor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roychancellor.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programming Projects</title>
+      <link>https://roychancellor.me/programming_projects/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roychancellor.me/programming_projects/</guid>
+      <description>All of my personal projects can be found on GitHub. Below are some projects that I am particularly proud of:
+Java Projects Programs written as part of the GCU Java Programming Certificate.
+ Banking Application: Implements basic banking features as a Java console application using object-oriented concepts (abstraction, inheritance, and polymorphism). Keeps track of multiple customers and each customer&amp;rsquo;s banking transactions. Generates an amortization table for the customer&amp;rsquo;s loan. Vending Machine Management: Implements a customer-facing vending machine application with a back-end for machine administration.</description>
+    </item>
     
     <item>
       <title>Engineering Projects</title>
@@ -19,17 +30,6 @@
       <guid>https://roychancellor.me/engineering_projects/</guid>
       <description>Projects on this page illustrate reactive and proactive problem solving projects I worked on either directly as a team leader or as an advisor to the primary project team. The projects show how Shainin Red X and Green Y methods can quickly converge on the root cause of a technical problem.
 Reactive Problem Solving Reactive problem solving occurs when a problem already exists and needs attention, whether it be for a line-down situation or to eliminate chronic problems.</description>
-    </item>
-    
-    <item>
-      <title>Programming Projects</title>
-      <link>https://roychancellor.me/programming_projects/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://roychancellor.me/programming_projects/</guid>
-      <description>All of my personal projects can be found on GitHub. Below are some projects that I am particularly proud of:
-ProjectEuler Project Euler is a collection of challenging math problems solved with programming. I have used these problems for intellectual stimulation and to practice coding in Java. Problem descriptions are here. My repository is here and below are a few I am proud of:
- Problem #12: Find the first triangular number that has at least 500 divisors (has some cool optimizations) Problem #13: Find the first 10 digits of the sum of 100 fifty-digit numbers Problem #15: Find the number of paths through a 20 x 20 grid (this one was HARD&amp;hellip;there&amp;rsquo;s probably an easier way) Problem #16: Find the sum of the digits in 2^1000 (Wish I knew about BigDecimal before this one!</description>
     </item>
     
   </channel>
