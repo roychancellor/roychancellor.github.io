@@ -6,7 +6,7 @@
     <description>Recent content on Roy Chancellor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roychancellor.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,12 @@
     <item>
       <title>Programming Projects</title>
       <link>https://roychancellor.me/programming_projects/</link>
-      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://roychancellor.me/programming_projects/</guid>
       <description>All of my personal projects can be found on GitHub. Below are some projects that I am particularly proud of:
 Java Projects Programs written as part of the GCU Java Programming Certificate.
- Banking Application: Implements basic banking features as a Java console application using object-oriented concepts (abstraction, inheritance, and polymorphism). Keeps track of multiple customers and each customer&amp;rsquo;s banking transactions. Generates an amortization table for the customer&amp;rsquo;s loan. Vending Machine Management: Implements a customer-facing vending machine application with a back-end for machine administration.</description>
+ Banking Application: Implements basic online-banking features as a web application using object-oriented concepts (abstraction, inheritance, and polymorphism) using the MVC design pattern. Customer data and transactions are persistent in a SQL database with salted/hashed login credentials. Built using Java, Spring, MySQL, and JSP for web pages.</description>
     </item>
     
     <item>
