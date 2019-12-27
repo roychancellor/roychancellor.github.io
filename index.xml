@@ -17,7 +17,7 @@
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://roychancellor.me/programming_projects/</guid>
-      <description>All of my personal projects can be found on GitHub. Below are some projects that I am particularly proud of:
+      <description>All of my personal projects can be found on GitHub. Below are some projects of which I am particularly proud:
 Java Projects Programs written as part of the GCU Java Programming Certificate.
  Banking Application: Implements basic online-banking features as a web application using object-oriented concepts (abstraction, inheritance, and polymorphism) using the MVC design pattern. Customer data and transactions are persistent in a SQL database with salted/hashed login credentials. Built using Java, Spring, MySQL, and JSP for web pages.</description>
     </item>
